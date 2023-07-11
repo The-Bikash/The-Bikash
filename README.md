@@ -19,3 +19,5 @@ If you share my passion for Mathematics, Coding, Game Development, Graphics Prog
 I'm always eager to collaborate and connect with fellow enthusiasts and experts in these domains. Feel free to reach out to me via email or through GitHub. Let's embark on this exhilarating journey of knowledge, creativity, and innovation together.
 
 Let's push the boundaries, inspire each other, and make a lasting impact through the power of Mathematics, Coding, and Game Development. Together, we can shape the future! 🌌
+
+🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/bikash-samanta-97a994217)!
