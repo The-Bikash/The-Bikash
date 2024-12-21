@@ -47,15 +47,15 @@ I am passionate about **Graphics Programming** and **Game Development**. I love 
 ### Technologies & Frameworks
 - **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-learn
 - **Cryptography**: OpenSSL, Libsodium, RSA, AES
-- **Game Engines**: Unity (C#), Unreal Engine (C++)
-- **Graphics Programming**: OpenGL, Vulkan
-- **Database**: MySQL, PostgreSQL
+- **Game Engines**: Unreal Engine (C++)
+- **Graphics Programming**: Vulkan
+- **Database**: MySQL
 
 ### Tools & Platforms
 - **Version Control**: Git, GitHub
-- **Operating Systems**: Linux (Arch), Windows
-- **IDE/Editors**: VS Code, CLion, PyCharm, Jupyter
-- **Collaboration**: GitHub, GitLab, Slack, Trello
+- **Operating Systems**: Linux (Arch), Windows 11
+- **IDE/Editors**: VS Code, Visual Studio, PyCharm, Jupyter
+- **Collaboration**: GitHub, GitLab, Slack
 
 ## 📚 Ongoing Learning
 
