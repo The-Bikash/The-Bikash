@@ -63,12 +63,15 @@ I am passionate about **Graphics Programming** and **Game Development**. I love 
 - **Mathematics**: Learning abstract algebra, probability theory, and applying mathematical concepts to solve real-world problems.
 - **Game Development**: Improving my skills in physics simulation, multiplayer game architecture, and advanced graphics rendering.
 
+
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/bikashsamanta)
-- [GitHub](https://github.com/BikashSamanta)
-- [Twitter](https://twitter.com/BikashSamanta)
-- [Blog/Portfolio](#)
+<p align="left">
+<a href="https://www.linkedin.com/in/the-bikash/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shlokjjw/" height="30" width="40" /></a>
+
+</p>
+
+
 
 ## Languages and Tools:
 
