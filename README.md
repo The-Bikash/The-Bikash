@@ -42,7 +42,7 @@ I am passionate about **Graphics Programming** and **Game Development**. I love 
 - **C++**: Advanced knowledge in object-oriented programming, performance optimization, and system-level programming.
 - **Python**: Expertise in data science, machine learning, and scripting. Familiar with libraries like NumPy, Pandas, TensorFlow, and Scikit-learn.
 - **JavaScript**: Basics for web development and client-server communication.
-- **Mathematica & MATLAB**: For complex mathematical modeling and problem-solving.
+- **Mathematica**: For complex mathematical modeling and problem-solving.
 
 ### Technologies & Frameworks
 - **Machine Learning Libraries**: TensorFlow, PyTorch, Scikit-learn
