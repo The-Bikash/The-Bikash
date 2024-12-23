@@ -82,16 +82,4 @@ I am passionate about **Graphics Programming** and **Game Development**. I love 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
 
 
-## 📈 GitHub Stats:
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=The-Bikash&show_icons=true&locale=en" alt="The-Bikash" /></p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Bikash)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=The-Bikash)
-
-[![Bikash's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=The-Bikash&bg_color=121212&color=21b6e8&line=7fcce6&point=ebf8ff&area=true&hide_border=true)](https://github.com/the-bikash/github-readme-activity-graph)
-
----
-
 Thanks for visiting my GitHub profile! Feel free to explore my repositories, contribute to my projects, or just drop a message if you'd like to discuss any exciting ideas related to cryptography, machine learning, or game development.
