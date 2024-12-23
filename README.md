@@ -2,7 +2,7 @@ Hello! I'm Bikash Samanta, a passionate developer and researcher from West Benga
 
 ## 🚀 Current Projects
 
-### Math Assistant
+### Infinity-Lab
 I am developing a **Math Assistant** designed to solve complex mathematical problems. The project aims to help students and professionals alike by providing solutions to algebraic, calculus, linear algebra, and other mathematical topics. The assistant will be equipped with:
 - Equation Solving
 - Step-by-Step Solutions
