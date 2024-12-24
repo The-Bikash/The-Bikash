@@ -25,8 +25,8 @@ I am learning and experimenting with **Machine Learning** algorithms across vari
 
 ### Game Development & Graphics Programming
 I am passionate about **Graphics Programming** and **Game Development**. I love creating simulations and interactive environments. Currently, I am learning advanced techniques in:
-- **C++** and **Python** for high-performance computing and graphics programming
-- **OpenGL** and **Vulkan** for rendering 3D graphics
+- **C++** for high-performance computing and graphics programming
+- **Vulkan** for rendering 3D graphics
 - Developing **Physics Simulations** and real-time rendering algorithms
 
 ## 🧠 Learning & Interests
@@ -60,7 +60,6 @@ I am passionate about **Graphics Programming** and **Game Development**. I love 
 ## 📚 Ongoing Learning
 
 - **Machine Learning**: Diving deeper into supervised, unsupervised, and reinforcement learning, exploring advanced neural networks, natural language processing (NLP), and AI ethics.
-- **Mathematics**: Learning abstract algebra, probability theory, and applying mathematical concepts to solve real-world problems.
 - **Game Development**: Improving my skills in physics simulation, multiplayer game architecture, and advanced graphics rendering.
 
 
