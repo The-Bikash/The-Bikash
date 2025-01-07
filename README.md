@@ -1,35 +1,24 @@
-Hi, I'm Bikash Samanta, a developer with a passion for mathematics, cryptography, and artificial intelligence. I’m currently exploring advanced AI techniques and working on implementing encryption schemes.
+Hi, I'm Bikash Samanta, a developer with a passion for **Artificial Intelligence**, **Cryptography**, and **Blockchain**. I’m currently exploring advanced AI techniques and working on implementing encryption schemes.
 
 ## 🚀 Current Projects
 
 ### Machine Learning Exploration
 Learning and experimenting with **Machine Learning** algorithms across various paradigms, such as:
-- **Supervised Learning**: Regression, Classification (SVM, Decision Trees, etc.)
 - **Deep Learning**: GAN, CNN, FNN, RNN, etc.
+- **Supervised Learning**: Regression, Classification (SVM, Decision Trees, etc.)
 - **Unsupervised Learning**: Clustering, Dimensionality Reduction (K-Means, PCA)
 - **Reinforcement Learning**: Building agents that learn from interaction with the environment
-
 ### Cryptographic Library  
 I’m developing a **Cryptographic Library** focused on **Symmetric** and **Asymmetric** encryption schemes, building secure, practical algorithms to deepen my cryptography expertise.
 
 ### Infinity-Lab
 Developing a **Math Assistant** designed to solve complex mathematical problems. The project aims to help students and professionals alike by providing solutions to algebraic, calculus, linear algebra, and other mathematical topics.
 
-## 🧠 Interests
-- **Artificial Intelligence**
-- **Cryptography**
-- **Blockchain**
-
-## 💻 Technical Skills
-
-### Tools & Platforms
-- **Version Control**: Git, GitHub
+## 💻 Tools & Platforms
 - **Operating Systems**: Linux (Arch)
 - **IDE/Editors**: VS Code, Vim
-- **Collaboration**: GitHub
 
 ## 📚 Ongoing Learning
-
 - **Machine Learning**: Diving deeper into supervised, unsupervised, and reinforcement learning, exploring advanced neural networks, natural language processing (NLP), and AI ethics.
 
 ## 🔗 Connect with Me
